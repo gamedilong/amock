@@ -10,17 +10,17 @@
     "Server",
     "LightWeight",
     "Easy",
-	"VSCode Plugin",
-	"vscode"
+    "VSCode Plugin",
+    "vscode"
   ],
   "bugs": {
-      "url": "https://github.com/gamedilong/amock/issues",
-      "email": "1104238614@qq.com"
+    "url": "https://github.com/gamedilong/amock/issues",
+    "email": "1104238614@qq.com"
   },
   "homepage": "https://github.com/gamedilong/amock",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/gamedilong/amock.git"
+    "type": "git",
+    "url": "https://github.com/gamedilong/amock.git"
   },
   "engines": {
     "vscode": "^1.38.0"
