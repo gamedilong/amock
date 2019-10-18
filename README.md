@@ -1,7 +1,7 @@
 # AMock README
 
 It's a lightweight mock server plugin based on express. No more than 5 minutes of skilled use. It's useful when you develop frontend applications with VS Code [github](https://github.com/gamedilong/amock).
-document  English|[中文](README.cn.md)
+Document [中文](README.cn.md)
 ## Features
 * Start AMock Server
 * Reload AMock Server
