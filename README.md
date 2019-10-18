@@ -67,7 +67,7 @@ commonResHandler|object|when you set this prop,response will hanbled by this han
 prop | type | desc | required |  
 -|-|-|-
 handle|string|it must be set when you use commHandler,this value will be prop container amock unit response|true|
-*|you can set anything you common repsone should have|false
+*|any|you can set anything you common repsone should have|false
 
   
 ## Issues

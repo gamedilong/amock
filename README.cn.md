@@ -66,7 +66,7 @@ commonResHandler|object|设置通用格式，uint里面的响应值会包含再h
 prop | type | desc | required |  
 -|-|-|-
 handle|string|如果使用通用响应配置该属性必须设置,这个属性对应的值将会包含unit单元的响应值|true|
-*|其他属性可以任意设置|false
+*|any|其他属性可以任意设置|false
 
   
 ## Issues
