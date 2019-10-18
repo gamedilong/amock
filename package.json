@@ -1,6 +1,7 @@
 {
   "name": "amock",
   "displayName": "amock",
+  "publisher": "gamedilong",
   "description": "It's a lightweight mock server plugin based on express. No more than 5 minutes of skilled use.",
   "version": "0.0.1",
   "keywords": [
@@ -12,6 +13,15 @@
 	"VSCode Plugin",
 	"vscode"
   ],
+  "bugs": {
+      "url": "https://github.com/gamedilong/amock/issues",
+      "email": "1104238614@qq.com"
+  },
+  "homepage": "https://github.com/gamedilong/amock",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/gamedilong/amock.git"
+  },
   "engines": {
     "vscode": "^1.38.0"
   },
