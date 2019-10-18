@@ -1,6 +1,6 @@
 # AMock README English|[中文](README.cn.md)
 
-It's a lightweight mock server plugin based on express. No more than 5 minutes of skilled use. It's useful when you develop frontend applications with VS Code.
+It's a lightweight mock server plugin based on express. No more than 5 minutes of skilled use. It's useful when you develop frontend applications with VS Code [github](https://github.com/gamedilong/amock).
 
 ## Features
 * Start AMock Server
@@ -72,4 +72,4 @@ handle|string|it must be set when you use commHandler,this value will be prop co
   
 ## Issues
 
-Currently, the extension is in the very initial phase. If you find any bug or have any suggestion/feature request, please submit the [issues](https://github.com/formulahendry/vscode-mysql/issues) to the GitHub Repo. Or you can send email to 1104238614@qq.com.
+Currently, the extension is in the very initial phase. If you find any bug or have any suggestion/feature request, please submit the [issues](https://github.com/gamedilong/amock/issues) to the GitHub Repo. Or you can send email to 1104238614@qq.com.

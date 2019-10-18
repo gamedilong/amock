@@ -1,6 +1,6 @@
 # AMock README [English](README.md)|中文
 
-该项目是一个基于express的轻量级的 mock 服务插件. 只需5分钟就可以轻松熟练的使用. 对用VScode开发的前端应用非常有用.
+该项目是一个基于express的轻量级的 mock 服务插件. 只需5分钟就可以轻松熟练的使用. 对用VScode开发的前端应用非常有用[github](https://github.com/gamedilong/amock).
 ## 功能
 * 启动 AMock 服务
 * 重载 AMock 服务
@@ -71,4 +71,4 @@ handle|string|如果使用通用响应配置该属性必须设置,这个属性�
   
 ## Issues
 
-这个插件是一个很初始版如果发现了任何的bug或者有任何建议, 请提交 [issues](https://github.com/formulahendry/vscode-mysql/issues) to 到GitHub Repo. 或者可以直接邮件到 1104238614@qq.com.
+这个插件是一个很初始版如果发现了任何的bug或者有任何建议, 请提交 [issues](https://github.com/gamedilong/amock/issues) to 到GitHub Repo. 或者可以直接邮件到 1104238614@qq.com.

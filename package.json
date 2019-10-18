@@ -8,7 +8,9 @@
     "Express",
     "Server",
     "LightWeight",
-    "Easy"
+    "Easy",
+	"VSCode Plugin",
+	"vscode"
   ],
   "engines": {
     "vscode": "^1.38.0"
