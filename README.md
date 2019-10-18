@@ -10,6 +10,7 @@ It's a lightweight mock server plugin based on express. No more than 5 minutes o
 * Config AMock Server
   
 ## Usage
+* `Install Amock Server`*: Search `amock` in vscode exstention exploer and install it.
 * `Config AMock Server`: When you open workspace ,this plugin while create a default `.amock` floder and `./amock/setting.json` in your workspace. `Setting.json` is the server config, you can modify it to adapt your requirements.
 * `Config AMock Unit`: You can add amock unit config in `./amock` floder. Amock unit config file name must like `*.amock.js`.
 * `Run AMock Server`: To start AMock Server. In Explorer of VS Code,click "AMock" in the bottom left corner, then click the start button to run amock server.When start success, you can use it in your `frontend project` or test it with `browser` or `postman`.
