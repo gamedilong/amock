@@ -9,6 +9,7 @@
 * 配置 AMock 服务
   
 ## 使用方法
+* `安装Amock Server插件`*: 在vscode 插件搜索窗口搜索 `amock` 然后按照即可.
 * `配置 AMock 服务`:当打开你的项目时 ,该插件会创建一个默认的`.amock` 文件夹 和 `./amock/setting.json`文件在你的workpace. `Setting.json` 是服务配置项, 可以按需设置.
 * `配置 AMock 单元`: 你可以新增amock配置在 `./amock` floder. Amock 单元配置文件名必须按这个规则来 `*.amock.js`.
 * `启动 AMock 服务`: 在VS Code的explorer最下方找到点击AMock项, 然后点击启动服务按钮 启动。当Amock output控制台启动成功，即可开始使用。可直接在 `前端工程`使用 或者用`浏览器` or `postman`等接口测试工具测试.
