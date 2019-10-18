@@ -1,6 +1,7 @@
-# AMock README [English](README.md)|中文
+# AMock README 
 
 该项目是一个基于express的轻量级的 mock 服务插件. 只需5分钟就可以轻松熟练的使用. 对用VScode开发的前端应用非常有用[github](https://github.com/gamedilong/amock).
+文档 [English](README.md)|中文
 ## 功能
 * 启动 AMock 服务
 * 重载 AMock 服务
